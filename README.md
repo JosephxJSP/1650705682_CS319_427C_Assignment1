@@ -1,8 +1,8 @@
 Please write the resume website using HTML and CSS
 
 Acceptance Criteria:
-The website should use External CSS files for styling
-The website should have profile photo and your experience
+- The website should use External CSS files for styling
+- The website should have profile photo and your experience
 
 Scoring:
 Have all details: 7
