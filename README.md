@@ -5,8 +5,8 @@ Acceptance Criteria:
 - The website should have profile photo and your experience
 
 Scoring:
-Have all details: 7
-Beauty: 3
+- Have all details: 7
+- Beauty: 3
 
 Format: Your GitHub Link or Your ZIP files containing Web scripts
 
